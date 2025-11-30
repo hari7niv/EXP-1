@@ -1,5 +1,13 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+
+
+NAME: HARI NIVEDHAN P
+
+REGISTER NO: 212224220031
+
+DATE:11.09.25
+
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
@@ -38,38 +46,27 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
-
 a.   KVL:
  
-
-
-b.  KCL:
- 
-
-Calculation:
-
-a.   KVL:
- 
-
+<img width="1187" height="787" alt="Screenshot 2025-09-11 105406" src="https://github.com/user-attachments/assets/6b755dc7-950a-49a4-a7d5-c54d368d4c10" />
 
 b.  KCL:
 
+<img width="1321" height="755" alt="Screenshot 2025-09-11 104024" src="https://github.com/user-attachments/assets/f6a92622-ca64-49da-bca8-eb1e44d0c9a5" />
 
 
 
-Tabulation:
 
-a.   KVL:
- 
+<img width="567" height="913" alt="image" src="https://github.com/user-attachments/assets/f2dbafb7-cd21-4a70-b9ba-44927e5cab70" />
 
+<img width="598" height="907" alt="image" src="https://github.com/user-attachments/assets/2e8466cc-27a6-4fa0-8afd-11143e05a343" />
 
-b.  KCL:
+<img width="645" height="877" alt="image" src="https://github.com/user-attachments/assets/e1030059-a135-4bf7-910b-99f1ec988146" />
 
-
+<img width="570" height="884" alt="image" src="https://github.com/user-attachments/assets/c4085f3d-2707-4df3-9a14-d8f5009ca17e" />
 
 RESULT:
 
